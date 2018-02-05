@@ -1,7 +1,8 @@
 # bibliography
 
-Please include all primary and secondary sources you used for creating your model and its paradata. If the object is in a museum, for instance, you'd include its catalogue number and so on. Otherwise, ownership or location, that kind of thing.
+Alan's Art Log (2017). How to Turn/Scan Objects Into 3D Models With Just a Camera. Available at https://www.youtube.com/watch?v=GaYfpGcXxmA (accessed Feb 4, 2018).
+Hall, Patricia (1999). Raggedy Ann and Andy: History and Legend. Available at http://www.raggedy-ann.com/patty.html (accessed Feb 4, 2018).
+Kaser, Jenny (2018). In person conversation with Elise Anderson, February 3rd 2018. 
+Regard 3D Turotial. Available at http://www.regard3d.org/index.php/documentation/tutorial (accessed Feb 4, 2018). 
+Walkup, Nancy (2006). Raggedy Ann and Andy: early childhood, School Arts. 106.2, p5+.
 
-Include any materials that you've used - including tutorials, blog posts, videos, whatever. If you used it, consulted it, or it caused you to think about what you were doing, cite it.
-
-use harvard author-date style.
