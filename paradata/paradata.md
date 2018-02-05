@@ -1,33 +1,19 @@
 # paradata
 
-This is the document that describes what you were doing, and what you learned through the process, especially with regard to the issues raised in the Core Philosophy readings (which you'd cite, naturally).
+Raggedy Ann Paradata
+Elise Anderson 
+100945395
 
-More info on 'paradata', from the HeritageJam:
+Introduction:
+This is my 3D scan and model of a Raggedy Ann doll. The original doll was created in the late 1960’s and purchased in Ottawa, however as it traveled around Canada it became worn. As it became worn, it became repaired, with each new piece holding a history of a new location. It became its own unique dolls which can only exist under these specific circumstances. By becoming a 3D artifact, it’s current state is not only preserved but it also extends its story into the 21st century digital age. 
 
-Paradata Resources and Direction
+Why has it been created and for what use? 
+On first glance, it may appear as if the audience is the owners of the doll. However, while it represents one story of Canada, it can be related to many stories of Canada. It is far from the only toy to be passed on and repaired in this way. This reflects a time in which mass production existed but there was more value in repairing what you had rather than simply throwing away. This particular doll has also traveled extensively, and each part was made in different provinces of Canada at different times. Being from the capital of Ottawa, it nicely reflects the bringing together of Canada as a whole. The doll itself may have little meaning to most, but its story certainly can be. By 3d scanning it, we preserve its story and state, as well as add to its own history.  
 
-Among the documents used to critically inform heritage visualisation, paradata are details on the processes and methods behind the building and interpretation of our visual objects. The London Charter describes them as"documentation of the evaluative, analytical, deductive, interpretative and creative decisions made in the course of ... visualisation" to allow a clear understanding of how the visualisation came into being.
+Approach and methods/steps
+First, I created a studio using two filtered lamps for light, a blank background, and stool to place the doll on. I used my phone camera to take pictures of the doll from every angle in a circular pattern. Next, I masked these images using gimp to cut away the background. This allowed the final result to be cleaner. Finally I used Regard3D to match the images, create a point cloud, and the final surfaces. The result can be viewed on sketchfab dot com. 
 
-Distinct from metadata (which describe the data themselves, their nature, location, and relation to other data, often employed for indexing purposes), paradata work to provide detailed contextual information about the processes of decision-making and the rationale for and derivation of the work.
+Uncertainty and Alternate Interpretations
+The uncertainty in the object is mainly due to it being so unique. Unlike a preservation of the original doll in which it was based on, its history is more complex and also more open to interpretation. I see it as a reflection of the time period as well as each province (with its story beginning and currently in Ottawa). However, what it means to each individual is entirely subjective. 
 
-In visualisation, paradata provide the space through which we communicate ambiguity and transparency, and account for our practices. In explicitly detailing the creator's process, paradata enable openness, making visible the "relationship between research sources, implicit knowledge, explicit reasoning, and visualisation-based outcomes." This offers viewers an insight into the making process, and an opportunity to think critically about how our images are constructed and create meaning about the past.
 
-Macro Paradata: the big decisions relating to the nature of the visualisation.
-
-    Why has the resource being created and for what audience? _(SG says: interpret this as asking you to tie your work into the big themes, issues, from this course)_
-
-    How will the resource be put to use? Is it sustainable and accessible? _(SG says: interpret this to reflect on the technologies you've used)_
-
-    Why have you chosen to use the approach/methods applied? _(SG says intrpret this to reflect on your actual process - what worked, what didn't, given the kinds of guidance or advice you've been able to find?)_
-
-Micro Paradata: the small-scale decision-making processes underlying the construction of the visualisation.
-
-    What are the basic steps you followed in putting together the resource?
-
-    What supporting evidence did you rely upon?
-
-    How have you acknowledged uncertainty in the resource? Where might alternative interpretations have been made or where are such interpretations otherwise available for viewing audiences to refer to?
-
-References
-
-McCurdy, L. (2010). Visualising Architecture: The Experience of Creating Virtual Reconstructions. Unpublished Master's thesis, University of York, UK.
