@@ -1,0 +1,132 @@
+Happy Superbowl Sunday!
+So, you may have noticed that while I’ve posted a fair amount on hypothesis I have yet to post anything on github. 
+Well, there are a couple reasons for that. However, rest assured I have been logging my progress!
+The thing is, I know I am a terrible procrastinator. I think I even said so in my introduction. So, to combat this I got into the habit of writing any notes/thoughts/steps I took on this project at the time I was working on it. Usually (especially at the beginning) this took the form of jotting down notes in physical notebooks (90% of my school notes are handwritten) or random scraps of paper nearby. This later turned (as I used Regard3D) into word document notes. But of course, me being me I did not actually compile them together and upload them until today. So, apologies about that.
+Due to the incredibly varied nature of my notes, I have transcribed them all as I originally wrote them and added further explanation to entries I felt needed it. All additions will be following “//” marks in order to distinguish them. 
+Without further ado, my logs:
+
+Monday Jan 15, 2018
+-In class scann3d
+-First scann worked ish but table scanned
+-Second said “failed”??? no explanation
+-Hard part == Thinking of things to scan
+//So these were the notes I jotted down during our introduction to scanning objects class. First use of the SCANN3D app. The last line is in reference to the fact that I’m the type of person who starts a new video game and then spends 30 min deciding on my characters name…. Open ended-ness is hard!
+
+Thursday Jan 18, 2018
+-Scanned a candle
+-“failed” again
+-Tablecloth texture, maybe that’s why?
+//Translation: I tried scanning a candle on my table (with a patterned tablecloth). However, SCANN3D wouldn’t compile it. In hindsight, it was probably the worst possible object to try to scan being smooth, the same from every angle, and with a loud background. 
+
+Sunday Jan 21, 2018
+So, today I figured out from scanning random objects around the house that when SCANN3D says “failed”, you can just exit out of app and click continue button to compile again. Who knew? 
+Scans are still terrible though….
+ //So far SCANN3D has always worked the second time its compiled. I’m thinking it was possibly a glitch?
+
+
+Monday Jan 22, 2018
+So today I tried going to Chinatown to scan.
+Well, actually mostly because I was hungry BUT it also they have one of the few monuments in Ottawa I find interesting! That monument being the Chinatown gate. 
+I should probably mention that I’m a terrible Canadian/terrible history student and think Canadian history is the most boring thing ever. 
+In fairness to Canadian history, this is mostly due to my own personal grudges. I loved history as a kid, and FINALLY got the grade where I got to learn about world history (specifically Mesopotamia!)… only to be moved to Canada and forced to learn about fur traders for years.  
+But I digress.
+In any case, when I got to Chinatown I realized scanning the gate would be basically impossible. 
+For one, the gate itself was surrounded by buildings and a road. In order to get even one decent picture of it I’d have to cross the street and stop midway. 
+Secondly, it is rather high up. No way I’d be able to get the proper angles for photogrammetry without a crane. 
+So I think I’m going to move away from the historical site idea and more towards the historical artifact idea. The question is what. 
+//A couple other factors in making this decision. For one, a smaller object would allow me to better control lighting/weather/angles. Because I had no idea what I was doing, I would also be able to redo the photos as needed. The tradeoff, of course, being that it would be harder to connect to Ottawa’s history. 
+
+Thursday Jan 25, 2018
+Feeling somewhat better today (thank god).
+Went to Second hand shop + bought Emily of New Moon doll
+I just thought it looked cool since it reminded me of a porcelain doll I have
+Ends up an earlier book by LM Montgomery (better known for writing Anne of Green Gables)
+About a girl named Emily Starr in PEI
+Doll looks newer though
+//Apologies for the randomly fragmented statements. Basically I bought a doll I thought was cool, only to find out it  was of a character from an LM Montgomery book. I thought this would be a perfect connection to Canadian history. Last statement meaning I observed the doll itself definitely was newer than the book.
+
+Friday Jan 26, 2018
+So no update on manufacturer of the doll….but I can now ballpark the date it was made!
+Some google searching revealed that the doll was wearing a copy of outfit from the 1998 television series based on the book. So I estimate it was made around the turn of the century. 
+According to random sellers on Kijiji/ebay, my doll used to have a hat which is now missing (explains the kind of bald spot on back of head). So not perfect condition. 
+I’m going to try to do more research on history of porcelain dolls. Considering how new the doll is, I think its kind of odd they promoted a newish tv show with something as antique as a porcelain doll. Maybe they saw a resurgence around these years?  Also could be due to the historical nature of the book. Will update my findings later!
+//This entry is basically irrelevant to the end product but I thought I might as well include it anyways.
+
+Sunday Jan 28, 2018
+//Going to have to decipher this one line by line…
+-Emily doll rotate it after tutorial
+//I watched online tutorials in which they rotated the object and a lot of diffused lights in order to have a plain background/consistency of distance from object. I tried this using a bar stool which spins. 
+-Not so genius because the shadows really confused it
+//In other words it did not work. Shadows confused SCANN3D so it appeared as two dolls. Picture of result:
+-Tried me rotating, dealing with lights in my face
+//Tried again with me rotating around the doll instead. 
+- realized its one doll, so that’s better
+//Doll still demonic but now only one. Picture:
+
+Monday Jan 29, 2018
+-Regard 3d
+-No camera data from scann3d images
+-Another set of pictures. Sighhh.
+- Using my phone camera
+-Had to input sensor length so I googled it, two numbers showed up so I put the squared one
+-Scattering of about 10 blobs 
+-Not entirely sure what I’m doing wrong
+//At this point I switched to using Regard 3D due to suggestions on the collaborative notes. I couldn’t figure out how to use my SCANN3D images due to lack of data, so I took another set.  The end result was basically nothing though… mostly due to my own shoddy guess work. 
+
+Update: ends up inputting a random number for sensor length not a good idea
+Gonna retry from the beginning as it inevitably takes an hour to compute matches….
+//I figured out my mistake with the sensor length numbers later that day.
+
+Wednesday Jan 31
+Managed to create more nightmare fuel
+Has faces which is better
+Clearly doing something wrong
+Only like 3/30 cameras load
+Watched tutorials - going to try to take more pictures
+Regard 3d seems to do better with more pictures while scann3d only wanted 20-30
+Going to try another doll photoshoot
+//Basically my dolls are getting better but still not very good. It barely captured any camera angles which was my biggest problem throughout the whole process. Pictures below:
+
+Friday Feb 2
+Today basically everything fell apart. Sighhhh.
+So as much as I’d love to write about LM Montgomery and her Emily doll… this is not working.
+Time is running out on this project. Pressures on.
+I realized the “perfect” features of Emily doll means little room for error with my scan or else it looks terrible.
+Lowest point because I’m really discouraged and have to find something else
+//After a while of being depressed about this I had to eventually go to class. I ended up finding my old Raggedy Ann doll as I was getting ready which gave me a sliver of hope. 
+//After class started scanning this doll instead
+
+Saturday Feb 3
+So today I’m at my Mom’s house, using gimp for hours. Yay!
+I think she’s kind of annoyed with me because she’s trying to show me her pictures of Antigua and I’m masking 62 images.
+It’s slow work. I’ve used gimp before but definitely no master. Hopefully this works. 
+None of the rooms in my house are boring/clear enough for photogrammetry so I’m hoping/praying that this will improve my object. 
+I’m kind of worried because this doll barely sits up by self so don’t want to get stool in picture
+Anyways, as I’m doing this I’m hearing the history of the doll from my mom.
+Ends up it was her favorite doll as a kid (late 1960s). Apparently it was worn through several times. They did not have a lot of money so my grandmother had to repair it constantly.
+For further background, her family moved around a lot during these years. At various times she lived in Ottawa, New Brunswick, Nova Scotia mainland and Cape Breton and Long Island, New York. As such, through each repair different parts of the doll became from in different parts of Canada. Only the legs are the original. 
+I like not only the family history, but how it took something generic (original dolls) and turned it into something unique. It may not reflect all dolls in Canada, but it tells its own history quite well. Maybe this change was a blessing in disguise. 
+
+
+
+
+Today – Sunday February 4, 2018
+Still using Regard 3d. The Gimp images do seem to work better thank god! I’d probably have a total mental breakdown at this moment if my entire days’ work yesterday was for nothing. 
+Now I’m just playing around with the settings to see what works best. It’d be better if it didn’t take anywhere from 15min-1h30min for each step but what can you do. 
+My biggest problem again lack of camera angles caught.
+Incremental triangulation seems to get more than global but not great.
+
+Update: 
+After going back to photoset, making keypoint count higher, and triangulating with incremental not global; I got… wait for it…..
+60/62 camera angles!
+I’m so happy I could cry.
+Not entirely sure why it worked, global only got 8/60.
+Now it is just taking over an hour to densify point cloud mve.
+No rush or anything regard 3d. Not like I only have 7 more hours to do this and was hoping to be done by yesterday.
+
+Update 2:
+Over 2 hours later my points were FINALLY densified.
+Now running surface creator over and over again. Not entirely satisfied with the results so going to just keep adjusting the settings. Tried using Meshlab but it just crashed….
+
+Update 3: 
+Finally got a model I somewhat liked. File was too big for github (and got a billion texture files) so uploaded to sketchfab. It loads upside down but looks better than I thought! Will tweak more later but for now, that’ll do. 
