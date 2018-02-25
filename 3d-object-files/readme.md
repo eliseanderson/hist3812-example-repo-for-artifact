@@ -1,4 +1,4 @@
 # Object Files
 
-Located at sketchfab:
-https://skfb.ly/6wtYN
+Module 2 remix located on sketchfab:
+https://skfb.ly/6wGXJ
